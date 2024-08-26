@@ -1,11 +1,11 @@
-site_name: Pantallas Digitales
+site_name: Panel Digital Interactivo
 site_url:  https://sever8a.github.io/pandigi/
 site_dir: site
 docs_dir: docs
 use_directory_urls: false
 
 nav:
-  - "1. La Pantalla Digital": "index.md"
+  - "1. Panel Digital Interactivo": "index.md"
   - "2. Utilizando los recursos": "recursos.md"  
   - "3. Metodología interactiva": "interactiva.md"
 

@@ -105,7 +105,30 @@ Si no se realiza la conexión, el control se tiene que realizar desde el ordenad
 
 Finalmente también es posible conectar altavoces o micrófonos, a los puertos correspondientes de salida de o entrada de audio.
 
+## **Acceso**
+
+Utiliza el usuario y sus credenciales correspondientes para desbloquear el panel digital interactivo.
+
+## **Apagado**
+
+Hay diferentes opciones. Se puede **cerrar sesión** (icono puertecita). Pedirá confirmación para cerrar la sesión.
+
+Desde este punto se puede apagar de dos maneras:
+1. En la botonera frontal manteniendo pulsado el **botón de encendido**
+2. Pulsando el icono de apagado que aparece en el panel digital interactivo.
+
+Hay que confirmar la acción a realizar en la venta de aviso que aparece.
+
+
+También es posible configurar tanto el encendido automático como el apagado automático. Desde la configuracion se pueden activar estas opciones, y programar días y horas para que se realicen. 
+
+Esta funcionalidad puede ser interesante para evitar que quede encendido una vez ha finalizado la jornada.
+
 
 ## **Referencias**
 
 [Web ADI](https://portal.edu.gva.es/pladigital/es/adi_cas/){:target="_blank"}
+
+Dos vídeos donde un compañero nos ahorra la lectura del propósito de ADI [Video 1](https://gvaedu.sharepoint.com/sites/DOCUMENTAR-FormacioTIC/_layouts/15/stream.aspx?id=%2Fsites%2FDOCUMENTAR-FormacioTIC%2FDocumentos%20compartidos%2FGeneral%2FADI%2F03%20VIDEOS%20PANTALLAS%2F01%20Vid%20ADI%2022-23%20Newline%2FVideo%20A_01%20-%20Inicio%201%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E85ed5d9e-32b1-41eb-a5ad-cf54d5dad2be){:target="_blank"} [Video 2](https://gvaedu.sharepoint.com/sites/DOCUMENTAR-FormacioTIC/_layouts/15/stream.aspx?id=%2Fsites%2FDOCUMENTAR-FormacioTIC%2FDocumentos%20compartidos%2FGeneral%2FADI%2F03%20VIDEOS%20PANTALLAS%2F01%20Vid%20ADI%2022-23%20Newline%2FVideo%20A_02%20-%20Inicio%202%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb43c9cca-e11a-4cfe-931e-36ec2cd6144f){:target="_blank"}
+
+Repositorio de vídeos sobre acciones con el panel digital interactivo [repositorio](https://gvaedu.sharepoint.com/sites/DOCUMENTAR-FormacioTIC/Documentos%20compartidos/Forms/Grande.aspx?ga=1&id=%2Fsites%2FDOCUMENTAR-FormacioTIC%2FDocumentos%20compartidos%2FGeneral%2FADI%2F03%20VIDEOS%20PANTALLAS%2F01%20Vid%20ADI%2022-23%20Newline&viewid=6c4c1b5a-c52a-4694-86b2-2e0ea9f17998){:target="_blank"}
