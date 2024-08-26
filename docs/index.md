@@ -72,6 +72,8 @@ La gran diversidad de puertos permite realizar diferentes usos de los recursos. 
 
 El panel digital interactivo cuenta con puertos para conexión a internet por cable o de manera inalámbrica.
 
+Se puede configurar la conexión WiFi como **punto de acceso** para dar servicio de Internet en el aula a otros dispositivos.
+
 
 ### **Puertos generales**
 
