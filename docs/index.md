@@ -112,6 +112,7 @@ Utiliza el usuario y sus credenciales correspondientes para desbloquear el panel
 Es posible que no todas las opciones de configuración estén disponibles para todos los usuarios. Por eso, hay detalles que pueden varias de un dispositivo a otro, e incluso en el mismo dispositivo según el usuario utilizado.
 
 Las aplicaciones preinstaladas pueden variar de un dispositivo a otro. Las más relevantes son:
+
     - Navegador web.
     - Visor de imágenes.
     - Visor de documentos pdf. Interesante pero puede encontrarse en diferentes circunstancias, como por ejemplo: una versión prueba limitada que muestra información comercial, visor con opciones insuficientes para nuestro propósito.
