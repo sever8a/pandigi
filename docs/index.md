@@ -113,10 +113,10 @@ Es posible que no todas las opciones de configuración estén disponibles para t
 
 Las aplicaciones preinstaladas pueden variar de un dispositivo a otro. Las más relevantes son:
 
-    - Navegador web.
-    - Visor de imágenes.
-    - Visor de documentos pdf. Interesante pero puede encontrarse en diferentes circunstancias, como por ejemplo: una versión prueba limitada que muestra información comercial, visor con opciones insuficientes para nuestro propósito.
-    - Aplicaciones ofimáticas **libre office** o **Microsoft 365**, no es recomendable su instalación ni uso, ya que los recursos son limitados. Si se necesita visualizar algún documento en estos formatos, hay alternativas para poder hacerlo, utilizando Microsoft 365 de manera on line o conectado una fuente externa que disponga de este tipo de aplicación.
+- Navegador web.
+- Visor de imágenes.
+- Visor de documentos pdf. Interesante pero puede encontrarse en diferentes circunstancias, como por ejemplo: una versión prueba limitada que muestra información comercial, visor con opciones insuficientes para nuestro propósito.
+- Aplicaciones ofimáticas **libre office** o **Microsoft 365**, no es recomendable su instalación ni uso, ya que los recursos son limitados. Si se necesita visualizar algún documento en estos formatos, hay alternativas para poder hacerlo, utilizando Microsoft 365 de manera on line o conectado una fuente externa que disponga de este tipo de aplicación.
 
 En general es conveniente elegir la fuente adecuada al tipo de documento con el que se quiera trabajar. Una opción más versatil es utilizar la fuente HDMI y mostrar el *portátil* u otro ordenador disponible.
 
