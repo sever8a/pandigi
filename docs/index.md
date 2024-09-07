@@ -27,7 +27,9 @@ Entre otras características, utiliza el sistema operativo Android 11, de tamañ
 
     [Web ADI](https://portal.edu.gva.es/pladigital/es/adi_cas/){:target="_blank"}
 
-    
+
+Algunas de las funciones que aparecen en el manual, son propias del usuario administrador (supervisadas por la coordinación TIC del centro), y dependerán de la estrategia que se siga en cada centro para la gestión del panel digital interactivo.
+
 
 ## **Puesta en marcha**
 
@@ -58,6 +60,7 @@ Conocer bien el dispositivo físicamente, nos ayuda a conseguir seguridad para s
 
     [Modelo Synetech](https://portal.edu.gva.es/pladigital/wp-content/uploads/sites/1192/2024/06/Guia-rapida-ADI-23-24-Synetech_cas.pdf){:target="_blank"}
 
+
 ## **Puertos y conexiones**
 
 Son la segunda pieza clave para utilizar correctamente la pantalla digital.
@@ -68,7 +71,7 @@ La gran diversidad de puertos permite realizar diferentes usos de los recursos. 
 
 !!! info "Puertos en uso"
 
-    Los puertos en uso, aparecen iluminados o con un punto verde en la pantalla, de manera que es posible seleccionar el puerto para activar la entrada.
+    Los puertos en uso, aparecen iluminados o con un punto verde en la pantalla de inicio, de manera que es posible seleccionar el puerto para activar la entrada.
 
 El panel digital interactivo cuenta con puertos para conexión a internet por cable o de manera inalámbrica.
 
@@ -87,11 +90,12 @@ Se dispone de varios puertos USB para conectar periféricos de tipo general, com
 
     Los puertos **USB tipo C** son más pequeños. Este tipo de puerto es multifunción y pueden conectarse muchos dispositivos o adaptadores diferentes.
 
-Los puertos HDMI permiten conectar una fuente externa, como un ordenador. A través de esta conexión se transmite la imagen y el sonido al panel digital interactivo.
+
+Los puertos **HDMI** permiten conectar una fuente externa, como un ordenador. A través de esta conexión se transmite la imagen y el sonido al panel digital interactivo.
 
 Si se quiere utilizar el panel digital interactivo para controlar la fuente conectada, es necesario utilizar la conexion del puerto **USB Touch**, para que los toques sobre el panel digital interactivo tengan efecto sobre la fuente. 
 
-Si no se realiza la conexión, el control se tiene que realizar desde el ordenador fuente.
+Si no se realiza la conexión, el control se tiene que realizar desde el dispositivo utilizado como fuente.
 
 
 !!! info "Puertos HDMI"
@@ -103,7 +107,17 @@ Si no se realiza la conexión, el control se tiene que realizar desde el ordenad
     Si al contrario, la intención es mostrar en el panel digital interactivo la imagen generada en otro dispositivo, la conexión se realizará en un puerto **HDMI In** (o simplmente HDMI).
 
 
-Finalmente también es posible conectar altavoces o micrófonos, a los puertos correspondientes de salida de o entrada de audio.
+Finalmente también es posible conectar altavoces o micrófonos, a los puertos correspondientes de salida o de entrada de audio.
+
+!!! alert "Puertos combinados"
+
+    Los puertos **HDMI** y **USB Touch** están vinculados, de manera que para que funcionen correctamente en combinación es necesario utilizar *la pareja de puertos con la misma numeración*.
+
+
+El aula digital interactiva se compone de un portátil (aunque puede haber sido substituido por otro dispositivo con función similar) que está conectado mediante un puerto **HDMI** y **Touch USB combinados**. 
+
+Dispone de arranque dual, lo que permite trabajar desde un sistema *Windows* o desde *Lliurex*.
+
 
 ## **Acceso**
 
@@ -119,6 +133,7 @@ Las aplicaciones preinstaladas pueden variar de un dispositivo a otro. Las más 
 - Aplicaciones ofimáticas **libre office** o **Microsoft 365**, no es recomendable su instalación ni uso, ya que los recursos son limitados. Si se necesita visualizar algún documento en estos formatos, hay alternativas para poder hacerlo, utilizando Microsoft 365 de manera on line o conectado una fuente externa que disponga de este tipo de aplicación.
 
 En general es conveniente elegir la fuente adecuada al tipo de documento con el que se quiera trabajar. Una opción más versatil es utilizar la fuente HDMI y mostrar el *portátil* u otro ordenador disponible.
+
 
 !!! alert "Interacción con HDMI"
 

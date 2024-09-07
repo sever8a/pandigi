@@ -80,13 +80,40 @@ Con aplicaciones web más complejas, es posible que únicamente con la interacci
 
 Utilizando la fuente de entrada HDMI se puede visualizar la pantalla del portátil (u ordenador) en el panel digital interactivo.
 
-Si además, se conecta del puerto USB-Touch, también es posible controlar el dispositivo externo desde el panel digital interactivo.
+Si además, se conecta el puerto USB-Touch combinado, también es posible controlar el dispositivo externo desde el panel digital interactivo.
 
-De esta forma todo lo que se visualice en el portátil se verá en el panel. Si en el sistema operativo tenemos aplicaciones específicas instaladas, se podrán mostrar.
+De esta forma todo lo que se visualice en el portátil se verá en el panel. 
+
+!!! info "Control con el panel digital interactivo"
+
+    Al utilizar el panel digital interactivo hay que tener en cuenta cómo realizar las acciones de control para el dispositivo externo.
+    Por ejemplo, pulsación de botón izquierdo, desplazamiento de pantalla...
+    
+    En general un toque sirve para seleccionar un elemento, y doble toque rápido para activiar un elemento. 
+    
+    Para activar la funcionalidad de botón derecho, hay que mantener una pulsación sobre el panel digital interactivo *(sobre el elemento que queremos contextualizar)*, y dar un segundo toque para activiar el menú contextual.
+    
+    Dependiendo del sistema operativo conectado, puede haber algunas diferencias en el control desde el panel digital interactivo.
+    
+Utilizar el dispositivo portátil externo predeterminado, u otro propio, permite ampliar y ajustar las aplicaciones que se pueden mostrar en el panel digital interactivo.
+
+Hay que tener en cuenta que el panel digital interactivo es un sistema Android, con una serie de aplicaciones limitadas, en cuanto a funcionalidad y prestaciones. Para asegurar la correcta visualización de documentos es recomendable utilizar el portátil externo con la aplicación correcta. De esa forma se conseguirá un funcionamiento más fluido e independiente.
 
 Se muestran los documento utilizando la aplicación correspondiente del ordenador, y el panel digital interactivo solo actua como una pantalla. 
 
 Esta opción es muy interesante cuando tenemos oportunidad de mostrar recursos que dependen de  aplicaciones concretas, o simplemente porque nos resulta más cómoda la interacción y el manejo desde otro dispositivo.
+
+!!! alert "Aplicaciones en el panel digital interactivo"
+
+    Puede ser que en alguna ocasión se abra algún documento de un tipo concreto con la aplicación correspondiente del sistema Android. O simplemente que nos sugiera la instalación de una app adecuada para la visualización del documento.
+
+    En estos casos es conveniente cambiar la fuente al portátil o dispositivo externo, donde ya debe estar instalada correctamente la aplicación capaz de gestionar nuestro documento.
+
+    Sobrecargar el panel digital interactivo con aplicaciones, puede suponer una ralentización en las prestaciones.
+
+    Algunas aplicaciones preinstaladas son demos promocionales y pueden estar limitadas, solicitando el registro o liciencia para un uso completo. Es importante ser consciente de las condiciones de uso en cada caso.
+
+
 
 ## **Acciones combinadas**
 
